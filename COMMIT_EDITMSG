@@ -1,0 +1,7 @@
+Add a button in the navigation bar to allow users to access their invoices
+
+Adds an "Invoice" button to the main navigation bar by adding a new button element in `client/src/main.tsx`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: ba62d51c-9b03-40ac-bcdc-82e15abed7ea
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/81e6a9d5-2b6e-4ff4-8fd7-e593b23dcbf5/380d0b61-bbe3-4797-b784-4bfb31da2043.jpg
